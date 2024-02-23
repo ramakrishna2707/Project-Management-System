@@ -34,7 +34,7 @@ The Product Management System is a Java application that allows users to manage 
 
 3.Managing your products efficiently.
 
-# contributing
+# Contributing
 
 Contributions to the Product Management System are welcome! If you would like to contribute, please follow these steps:
 
